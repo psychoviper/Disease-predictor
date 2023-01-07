@@ -25,10 +25,10 @@ SECRET_KEY = 'd1v#2-xne%^%s!_&-k0m#3awh+u2$3zx(jyiie+9^9fs3$^bbl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-CSRF_TRUSTED_ORIGINS = ['healthyheartstatus.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://healthyheartstatus.up.railway.app']
 ALLOWED_HOSTS = ['*']
 
-CORS_ORIGIN_WHITELIST = ['healthyheartstatus.up.railway.app']
+CORS_ORIGIN_WHITELIST = ['https://healthyheartstatus.up.railway.app']
 
 
 # Application definition
