@@ -8,4 +8,4 @@
 #### 13 different attributes are :
 ![Attributes](https://focusustech.com/media/tinymce/13-attributes-of-hdps.jpg)
 
-### Visit the following website to test your heart status: https://healthyheartstatus.up.railway.app/
+### Visit the following website to test your heart status: https://heart-disease-predictor.up.railway.app/
